@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9869bb30b3910264f801252e1bd1840c
+timeCreated: 1524713600
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/SelfDestroy.cs
+  uploadId: 278991

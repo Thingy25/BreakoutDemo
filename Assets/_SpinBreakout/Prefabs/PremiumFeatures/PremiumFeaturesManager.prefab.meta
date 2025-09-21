@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44eeec2a2c5eb480bbe9050961e27d63
+timeCreated: 1486357137
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/PremiumFeatures/PremiumFeaturesManager.prefab
+  uploadId: 278991

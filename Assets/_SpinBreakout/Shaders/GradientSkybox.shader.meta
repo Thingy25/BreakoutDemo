@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42e802768b43c394e879e5c2f64c55b3
+timeCreated: 1500894099
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Shaders/GradientSkybox.shader
+  uploadId: 278991

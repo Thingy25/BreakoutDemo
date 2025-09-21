@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1869a4a3f988cec4c95e82090dcb3420
+timeCreated: 1466159498
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/Coin.prefab
+  uploadId: 278991

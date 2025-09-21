@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1877921863914954}
+  m_IsPrefabParent: 1
+--- !u!1 &1877921863914954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4809186881715582}
+  - component: {fileID: 114922933842347072}
+  m_Layer: 0
+  m_Name: TileColorManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4809186881715582
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1877921863914954}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -17.9, y: 23.8, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114922933842347072
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1877921863914954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5d9ab1b8bc0274088d4450f387d90a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileColorList:
+  - {r: 0.60294116, g: 0.3369377, b: 0.3369377, a: 1}
+  - {r: 0.7910379, g: 0.52338535, b: 0.19364932, a: 255}
+  - {r: 0.08860446, g: 0.9656528, b: 0.8963908, a: 255}
+  - {r: 0.1634948, g: 0.26347086, b: 0.9264706, a: 1}
+  - {r: 0.9698254, g: 0.69826204, b: 0.6409344, a: 255}
+  - {r: 0.34493947, g: 0.4044118, b: 0.3494914, a: 1}
+  - {r: 0.53664833, g: 0.9030278, b: 0.036789898, a: 255}
+  - {r: 0.5607565, g: 0.7835175, b: 0.7081613, a: 255}
+  - {r: 0.30126157, g: 0.16580953, b: 0.5670604, a: 255}
+  - {r: 0.88336706, g: 1, b: 0.1544118, a: 1}
+  - {r: 0.45055467, g: 0.12235834, b: 0.47601885, a: 255}
+  - {r: 0.2813417, g: 0.900687, b: 0.037568454, a: 255}
+  - {r: 0.19286063, g: 0.7012127, b: 0.53797203, a: 255}
+  - {r: 0.98237586, g: 0.30607703, b: 0.26690987, a: 255}
+  - {r: 0.6884491, g: 0.86964, b: 0.22895959, a: 255}
+  - {r: 0.35728517, g: 0.652716, b: 0.82275426, a: 255}
+  - {r: 0.82536435, g: 0.04156268, b: 0.3875739, a: 255}
+  - {r: 0.26138774, g: 0.12362422, b: 0.60538155, a: 255}
+  - {r: 0.1714014, g: 0.250487, b: 0.5521684, a: 255}
+  - {r: 0.68335575, g: 0.23657563, b: 0.10838093, a: 255}
+  - {r: 0.91285074, g: 0.17410184, b: 0.8176422, a: 255}
+  - {r: 0.39214498, g: 0.007992984, b: 0.16280486, a: 255}
+  - {r: 0.13034715, g: 0.8302492, b: 0.23980048, a: 255}
+  - {r: 0.09427537, g: 0.69914895, b: 0.39634925, a: 255}
+  - {r: 0.8928888, g: 0.018926265, b: 0.65629274, a: 255}
+  - {r: 0.34267297, g: 0.6115703, b: 0.2471427, a: 255}
+  - {r: 0.28005543, g: 0.76546276, b: 0.92374647, a: 255}
+  - {r: 0.25731388, g: 0.23843268, b: 0.8490946, a: 255}
+  - {r: 0.85949564, g: 0.5075379, b: 0.2693589, a: 255}
+  - {r: 0.46689516, g: 0.60702986, b: 0.42304534, a: 255}

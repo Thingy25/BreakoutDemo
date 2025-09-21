@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d56576bf8fca4cd1a73aead6efae367
+timeCreated: 1467385784
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Shaders/VerticalGradient.shader
+  uploadId: 278991

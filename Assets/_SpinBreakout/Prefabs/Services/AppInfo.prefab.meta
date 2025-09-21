@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87d32f82f7fb6405d929088046ec6ecb
+timeCreated: 1468248243
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Services/AppInfo.prefab
+  uploadId: 278991

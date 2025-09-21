@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 715077e8d404e47faae013fdc6950e61
+timeCreated: 1468170306
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/CharacterScroller.cs
+  uploadId: 278991

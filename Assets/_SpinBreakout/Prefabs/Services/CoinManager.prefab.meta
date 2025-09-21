@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d56693cb785e45769ed6bc8160f338c
+timeCreated: 1459334010
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Services/CoinManager.prefab
+  uploadId: 278991

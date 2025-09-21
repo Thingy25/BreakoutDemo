@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: db41cfb3e07db6a41b74dca8bf271fdc
+timeCreated: 1465969315
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/GameManager.cs
+  uploadId: 278991

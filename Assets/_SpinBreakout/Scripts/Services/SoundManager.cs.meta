@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fa7494dd91b2147fc96e1051c9ec8d72
+timeCreated: 1484537662
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/Services/SoundManager.cs
+  uploadId: 278991

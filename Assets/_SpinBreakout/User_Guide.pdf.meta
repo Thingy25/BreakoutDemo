@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07e0cb5cf50754a0888a1f1224bf9269
+timeCreated: 1484647597
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/User_Guide.pdf
+  uploadId: 278991

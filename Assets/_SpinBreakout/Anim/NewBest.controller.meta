@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2c0be2410b124bbcaffed6bbcd489b7
+timeCreated: 1499679431
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/NewBest.controller
+  uploadId: 278991

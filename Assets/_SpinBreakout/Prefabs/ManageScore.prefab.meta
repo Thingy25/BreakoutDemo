@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2c97c8844e408c4e88d0af904abaaa4
+timeCreated: 1507192338
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/ManageScore.prefab
+  uploadId: 278991

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d49760b3993194e38a493c6e144c8fda
+timeCreated: 1499679431
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/NewBestScore.anim
+  uploadId: 278991

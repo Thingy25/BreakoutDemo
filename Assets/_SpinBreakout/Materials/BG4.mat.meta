@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9891c9b29d7c6a408ec8513ac8e9e8a
+timeCreated: 1467434773
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Materials/BG4.mat
+  uploadId: 278991

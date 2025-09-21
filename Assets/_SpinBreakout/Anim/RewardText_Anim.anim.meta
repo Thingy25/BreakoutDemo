@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c68e53ddff1b4c7090df40cc3a1301e
+timeCreated: 1484537345
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/RewardText_Anim.anim
+  uploadId: 278991

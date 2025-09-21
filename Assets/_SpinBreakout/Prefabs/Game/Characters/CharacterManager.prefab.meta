@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 723f4b5589fb4aa4e9935de29886c2f8
+timeCreated: 1466766784
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/Characters/CharacterManager.prefab
+  uploadId: 278991

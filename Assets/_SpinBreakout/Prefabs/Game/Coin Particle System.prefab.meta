@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53e38ce886954414b94b5d800cfdbb10
+timeCreated: 1466230900
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/Coin Particle System.prefab
+  uploadId: 278991

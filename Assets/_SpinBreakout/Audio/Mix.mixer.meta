@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f422dfd04b488214b9f7d43fc2a56f6a
+timeCreated: 1524727952
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Audio/Mix.mixer
+  uploadId: 278991

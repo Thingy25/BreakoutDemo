@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ced3701372d53c40a240979deb00914
+timeCreated: 1465976723
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scenes/Main.unity
+  uploadId: 278991

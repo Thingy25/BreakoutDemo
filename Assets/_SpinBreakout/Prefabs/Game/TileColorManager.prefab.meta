@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff9691f5df9d1a34ba6ae7f4891a7ec0
+timeCreated: 1507103886
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/TileColorManager.prefab
+  uploadId: 278991

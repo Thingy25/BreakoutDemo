@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fff5c223b00f80142949107d83faccfb
+timeCreated: 1465969298
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/PlayerController.cs
+  uploadId: 278991

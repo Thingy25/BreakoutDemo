@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7583989556ae242e389c2ba307c25a74
+timeCreated: 1484454518
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/PremiumFeatures/AndroidBackButtonHandler.cs
+  uploadId: 278991

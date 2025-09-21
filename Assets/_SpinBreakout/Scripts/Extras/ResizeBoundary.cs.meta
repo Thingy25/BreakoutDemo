@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 30e7d63fbf0afb845983f97018f3e7a4
+timeCreated: 1507190931
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/ResizeBoundary.cs
+  uploadId: 278991

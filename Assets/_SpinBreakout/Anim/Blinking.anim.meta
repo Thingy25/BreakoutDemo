@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02aaff9a1ac844c55a5ba885f7ee47fb
+timeCreated: 1484537345
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/Blinking.anim
+  uploadId: 278991

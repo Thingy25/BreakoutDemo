@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 676bb78096e2f674ab4e84038d65ba3c
+timeCreated: 1504673637
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/Characters/Cube.prefab
+  uploadId: 278991

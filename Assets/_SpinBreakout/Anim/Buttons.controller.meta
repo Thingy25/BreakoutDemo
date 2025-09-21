@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99a7cedd3b8b04b3d96886eee531b9e2
+timeCreated: 1468307912
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/Buttons.controller
+  uploadId: 278991

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb75309886f28435eb2eb72850cc845f
+timeCreated: 1499679260
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/PremiumFeatures/ShareUI_Portrait.prefab
+  uploadId: 278991

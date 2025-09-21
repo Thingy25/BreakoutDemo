@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b7d9ec696109a24eb5f9bae126558d2
+timeCreated: 1507104363
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/BreakContain/BreakTileContain1.prefab
+  uploadId: 278991

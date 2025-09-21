@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9195add1558a84a0790110419306ec54
+timeCreated: 1468170775
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/Score.controller
+  uploadId: 278991

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdd2dcec6458ce34d8d2dbdb216cf3ed
+timeCreated: 1507088173
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Sprites/LeftBreakout.raw
+  uploadId: 278991

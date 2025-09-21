@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b945ec24f5e49474ba85b537f95263f6
+timeCreated: 1524713352
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Materials/Circle.mat
+  uploadId: 278991

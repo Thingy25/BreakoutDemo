@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f5f464b9799f4770b13d9a724263f7d
+timeCreated: 1483504473
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Services/DailyRewardController.prefab
+  uploadId: 278991

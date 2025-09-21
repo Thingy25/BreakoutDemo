@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf457ef3b75e2422badc8e9c87a5bd2b
+timeCreated: 1497507831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/ShareUI.prefab
+  uploadId: 278991

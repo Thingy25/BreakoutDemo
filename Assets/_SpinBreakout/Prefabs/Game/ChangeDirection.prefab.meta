@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7831903fe9334947b8840a0489f9e51
+timeCreated: 1507111501
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/Game/ChangeDirection.prefab
+  uploadId: 278991

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82e9909cf0cc45649baef5d2d454665f
+timeCreated: 1507086919
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Materials/PlayerSkin.mat
+  uploadId: 278991

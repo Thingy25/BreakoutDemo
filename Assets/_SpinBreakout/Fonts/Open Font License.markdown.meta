@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b788b896b54024e20b1297a5567dbb8c
+timeCreated: 1484537367
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Fonts/Open Font License.markdown
+  uploadId: 278991

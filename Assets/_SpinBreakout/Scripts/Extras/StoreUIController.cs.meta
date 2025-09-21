@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1cd1370fc7a4847d3b0d10c646958b92
+timeCreated: 1484537343
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Scripts/StoreUIController.cs
+  uploadId: 278991

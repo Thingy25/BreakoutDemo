@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BG3
+  m_Shader: {fileID: 4800000, guid: cccfc3db116ef42dfbd4983ca2653196, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 1000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: []
+    m_Floats:
+    - first:
+        name: _GradientBias
+      second: 0.5
+    m_Colors:
+    - first:
+        name: _ColorHigh
+      second: {r: 0.2997405, g: 0.4596646, b: 0.9264706, a: 1}
+    - first:
+        name: _ColorLow
+      second: {r: 0.136516, g: 0.74264705, b: 0.56707805, a: 1}

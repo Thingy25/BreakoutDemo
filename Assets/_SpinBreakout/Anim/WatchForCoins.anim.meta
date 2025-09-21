@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0cd9c64cdfd449969dc594a21cc86fb
+timeCreated: 1468308232
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Anim/WatchForCoins.anim
+  uploadId: 278991

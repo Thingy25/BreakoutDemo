@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57ad674a864764f408990f38f4ce7f1e
+timeCreated: 1482648797
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Models/Coin/Materials/coin.mat
+  uploadId: 278991

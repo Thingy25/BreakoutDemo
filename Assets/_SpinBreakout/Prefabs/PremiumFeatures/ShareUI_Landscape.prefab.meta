@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bd03692b148d499985a221c478c47cb
+timeCreated: 1499679260
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121962
+  packageName: Spin Breakout
+  packageVersion: 1.2.0
+  assetPath: Assets/_SpinBreakout/Prefabs/PremiumFeatures/ShareUI_Landscape.prefab
+  uploadId: 278991
